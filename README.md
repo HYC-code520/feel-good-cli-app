@@ -1,4 +1,4 @@
-https://github.com/HYC-code520/feel-good-cli-app/raw/main/demo.mov
+https://github.com/user-attachments/assets/f8b00f37-7cc1-41d1-b618-97a66fdeebf0
 
 # 🌈 Feel Good – A Cozy CLI Mood & Motivation Journal
 
