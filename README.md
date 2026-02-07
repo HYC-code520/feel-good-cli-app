@@ -1,4 +1,4 @@
-<video src="demo.mov" controls width="100%"></video>
+https://github.com/HYC-code520/feel-good-cli-app/raw/main/demo.mov
 
 # 🌈 Feel Good – A Cozy CLI Mood & Motivation Journal
 
