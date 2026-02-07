@@ -5,6 +5,7 @@ from .helpers import (
     get_quote,
     get_animal_story
 )
+from .models import initialize_database
 
 # Initialize colorama
 init(autoreset=True)
@@ -89,6 +90,7 @@ def show_exit_art():
     print(long_line_ascii_art)
 
 def main():
+    initialize_database()
     print(start_app_ascii_art)  # Display starting ASCII art
     while True:
         menu()

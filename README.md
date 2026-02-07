@@ -1,3 +1,5 @@
+[![Watch the demo](https://img.youtube.com/vi/4Br2kJoJfB4/maxresdefault.jpg)](https://youtu.be/4Br2kJoJfB4)
+
 # 🌈 Feel Good – A Cozy CLI Mood & Motivation Journal
 
 **Feel Good** is a command-line journaling app that gently guides you through your emotions with warm questions, inspiring quotes, and heartwarming animal stories. It’s not just about logging your mood — it’s about softening your day and remembering you matter.
