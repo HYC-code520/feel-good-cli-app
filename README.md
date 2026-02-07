@@ -1,4 +1,4 @@
-[![Watch the demo](https://img.youtube.com/vi/4Br2kJoJfB4/maxresdefault.jpg)](https://youtu.be/4Br2kJoJfB4)
+<video src="demo.mov" controls width="100%"></video>
 
 # 🌈 Feel Good – A Cozy CLI Mood & Motivation Journal
 
