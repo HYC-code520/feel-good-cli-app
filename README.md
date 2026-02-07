@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/f8b00f37-7cc1-41d1-b618-97a66fdeebf0
+https://github.com/user-attachments/assets/59537c04-b4c0-44f2-88d2-9ac7bb6a892c
 
 # 🌈 Feel Good – A Cozy CLI Mood & Motivation Journal
 
